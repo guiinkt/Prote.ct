@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background-color: #2F2E41;
+}
+
+nav {
+  width: 1083px;
+  display: flex;
+  justify-content: space-between;
+
+  margin: 71px auto 101px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 64px;
+  margin: 0;
+  padding: 0;
+}
+
+main{
+  width: 1092px;
+  margin-bottom: 157px;
+}
